@@ -58,20 +58,20 @@ Contributions are welcome! If you'd like to contribute to this project, please f
    ```
 5. Open a pull request on the original repository, providing a clear description of your changes and their purpose.
 
-# Dê um Fork no Universo (Repositório) no GitHub.
+### Dê um Fork no Universo (Repositório) no GitHub.
 
-# Crie sua Própria Teia (Nova Branch)
+### Crie sua Própria Teia (Nova Branch)
 
 git checkout -b nome-da-sua-feature
 
-# Traga Sua Magia (Modificações)
+### Traga Sua Magia (Modificações)
 
 git commit -am 'Descrição da sua teia (feature ou correção)'
 
-# Lance sua Teia para o Mundo (Envie sua Branch)
+### Lance sua Teia para o Mundo (Envie sua Branch)
 
 git push origin nome-da-sua-feature
 
-# Após isso, abra um Pull Request no repositório original.
+### Após isso, abra um Pull Request no repositório original.
 
 Please ensure that your contributions adhere to the project's coding conventions and follow best practices.
