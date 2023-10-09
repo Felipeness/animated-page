@@ -12,14 +12,14 @@ To run this project locally, please follow these steps:
    Clone o Repositório:
 
    ```shell
-   gh repo clone Felipeness/animated-form
+   gh repo clone Felipeness/animated-page
    ```
 
 2. Navigate to the project's directory:
    Entre no Esconderijo (Diretório):
 
    ```shell
-   cd animated-form
+   cd animated-page
    ```
 
 3. Install the dependencies:
