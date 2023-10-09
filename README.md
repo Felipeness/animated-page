@@ -1,4 +1,4 @@
-#🕸️ Formulário Animado: A Teia do Design 🕷️
+# 🕸️ Formulário Animado: A Teia do Design 🕷️
 
 Bem-vindo ao universo paralelo onde a tecnologia se encontra com a magia! Aqui, criamos um formulário tão dinâmico e ágil, usando o incrível poder do React.js e a sutileza do pré-processador Sass para CSS.
 
